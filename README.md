@@ -7,8 +7,6 @@ This project is a clone of the popular Indian e-commerce website, Myntra. It is 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -28,16 +26,3 @@ The application can be accessed by visiting `http://localhost:3000` in your web 
 - Filter products by price, size, color, and more.
 - View detailed product information and customer reviews.
 
-## Contributing
-
-Contributions are welcome! Please refer to the [contributing guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Source: Conversation with Bing, 23/11/2023
-(1) myntra-clone · GitHub Topics · GitHub. https://github.com/topics/myntra-clone.
-(2) GitHub - harshau9/Myntra-Clone: Myntra Clone by using ReactJS. It is an .... https://github.com/harshau9/Myntra-Clone.
-(3) Myntra Clone, with JSON and ReactJS! - GitHub. https://github.com/iamhimanshugulati/react-myntra-clone.
-(4) GitHub - abhiram11/Myntra-Clone-ReactJS: Myntra clone made using .... https://github.com/abhiram11/Myntra-Clone-ReactJS.
